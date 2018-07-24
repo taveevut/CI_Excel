@@ -1,7 +1,7 @@
 # นำไลบราลี PHPExcel มาใช้งานร่วมกับ CodeIgniter
 ดาวน์โหลดไฟล์ PHPExcel จาก gitHub[https://github.com/PHPOffice/PHPExcel]  แล้วแตกไฟล์ zip ดังกล่าว ก๊อปปี้เฉพาะไฟล์ที่อยู่ในแฟ้ม Classes ไปไว้ที่แฟ้ม application/third_party  ดังรูป
 <p>
-  <img src="https://github.com/taveevut/CI_Excel/blob/master/screenshot/ex1.PNG">
+  <img src="https://github.com/taveevut/CI_Excel/blob/master/screenshot/ex1.PNG" width="450">
 </p>
 จากนั้นให้สร้างไฟล์ php เพื่อครอบไลบราลีตัวนี้ไว้โดยบันทึกไว้ในแฟ้ม application/library เพื่อใช้เป็นตัวกลางในการเรียกใช้งาน PHPExcel ในที่นี้ ผมจะสร้างไฟล์ชื่อ Excel.php  แล้วพิมพ์โค๊ดดังต่อไปนี้ลงไป
 ```sh
