@@ -21,6 +21,7 @@
 </p>
 จากนั้นบันทึกไว้ที่ใดที่หนึ่งภายใต้ site ในที่นี้ผมเก็บไว้ที่ /upload ตั้งชื่อว่า student_grade.xls
 ขั้นตอนต่อไปสร้างไฟล์ controller เพื่อมาทดสอบ ในที่นี้ผมสร้าง controller ชื่อ test.php วางไว้ที่ /controller โดยมีรายละเอียดของโค๊ดดังนี้
+
 ```sh
 public function readExcel()
 {
