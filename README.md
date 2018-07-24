@@ -1,5 +1,5 @@
 # นำไลบราลี PHPExcel มาใช้งานร่วมกับ CodeIgniter
-ดาวน์โหลดไฟล์ PHPExcel จาก gitHub[https://github.com/PHPOffice/PHPExcel]  แล้วแตกไฟล์ zip ดังกล่าว ก๊อปปี้เฉพาะไฟล์ที่อยู่ในแฟ้ม Classes ไปไว้ที่แฟ้ม application/third_party  ดังรูป
+ดาวน์โหลดไฟล์ PHPExcel จาก [gitHub](https://github.com/PHPOffice/PHPExcel)  แล้วแตกไฟล์ zip ดังกล่าว ก๊อปปี้เฉพาะไฟล์ที่อยู่ในแฟ้ม Classes ไปไว้ที่แฟ้ม application/third_party  ดังรูป
 <p>
   <img src="https://github.com/taveevut/CI_Excel/blob/master/screenshot/ex1.PNG" width="450">
 </p>
@@ -46,5 +46,5 @@ public function writeColumn( $data )
 }
 ```
 # แหล่งอ้างอิง
-* [https://soowoi.wordpress.com/2014/05/11/using-phpexcel-with-codeigniter/]
-* [https://github.com/PHPOffice/PHPExcel]
+* https://soowoi.wordpress.com/2014/05/11/using-phpexcel-with-codeigniter/
+* https://github.com/PHPOffice/PHPExcel
